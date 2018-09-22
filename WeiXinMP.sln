@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinMP", "WeiXinMP\WeiXinMP.csproj", "{D4690257-CCE1-4442-9E01-FEFF7C32D446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPWeiXin", "MPWeiXin\MPWeiXin.csproj", "{60A04133-3A6B-420A-BA24-B62F3483DE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4690257-CCE1-4442-9E01-FEFF7C32D446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4690257-CCE1-4442-9E01-FEFF7C32D446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4690257-CCE1-4442-9E01-FEFF7C32D446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4690257-CCE1-4442-9E01-FEFF7C32D446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A04133-3A6B-420A-BA24-B62F3483DE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A04133-3A6B-420A-BA24-B62F3483DE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A04133-3A6B-420A-BA24-B62F3483DE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A04133-3A6B-420A-BA24-B62F3483DE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
