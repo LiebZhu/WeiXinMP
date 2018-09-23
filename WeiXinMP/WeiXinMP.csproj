@@ -137,6 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\FamilyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -166,8 +167,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Efs\" />
     <Folder Include="Models\" />
     <Folder Include="Tools\" />
+    <Folder Include="Views\Family\" />
     <Folder Include="Views\Home\" />
   </ItemGroup>
   <ItemGroup>
