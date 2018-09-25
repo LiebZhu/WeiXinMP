@@ -25,7 +25,7 @@ namespace WeiXinMP
 
         private void Main_OnNmText(MPWeiXin.Model.EventModel.NmTextParameter nmTextParameter)
         {
-            string msg = "小傻子~😘\r\n\r\n";
+            string msg = "小傻子~😘~余生请多指教~\r\n\r\n";
             msg += helloMsg() + "\r\n";
             msg += "\r\n哇哦~这是与小傻子共度的" + (int)(DateTime.Now - DateTime.Parse("2018-2-21")).TotalDays + "天😍\r\n";
             msg += "\r\n近期纪念日：10月4小傻子的生日🎂\r\n";
